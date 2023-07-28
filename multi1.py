@@ -15,7 +15,7 @@ class Employee:
 """Now we create a programmer class that inherits from class Person and class Employee """
 """Now we have two ways and both will be explained
 1. without use of super keyword
-2. Without use of super keyword
+2. With use of super keyword 
 """
 
 """Without use of super keyword"""
